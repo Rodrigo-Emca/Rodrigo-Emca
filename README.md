@@ -1,6 +1,6 @@
 ¡Hola! 👋 Mi nombre es Rodrigo y soy Desarrollador Web Full-Stack MERN 💻 y desarrollador mobile.📱
 
-Adquirí mis conocimientos por medio de la experiencia en la metodología de aprendizaje Learning by Doing 🧑‍🎓, durante un bootcamp que realicé en MindHub. Allí pude adquirir habilidades en un entorno simulado de trabajo real, donde trabajé en proyectos en equipo y desarrollé soluciones para problemas reales, utilizando metodologías ágiles Scrum 📑.
+Tengo conocimientos en las tecnologías HTML5, CSS3, JavaScript, Bootstrap, React.js, Node.js, Express, MongoDB, Git y Github, las cuales puse en práctica durante un bootcamp que realicé en MindHub. Allí pude adquirir habilidades en un entorno simulado de trabajo real, donde trabajé en proyectos en equipo y desarrollé soluciones para problemas reales, utilizando metodologías ágiles Scrum 📑. 
 
 Además, como profesor de idiomas, tengo habilidades en inglés que me permiten comunicarme de manera efectiva con colegas y clientes de habla inglesa 🗣️.
 
