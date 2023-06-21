@@ -1,4 +1,4 @@
-¡Hola! 👋 Mi nombre es Rodrigo y soy Desarrollador Web 💻 y desarrollador mobile.📱
+¡Hola! 👋 Mi nombre es Rodrigo y soy Desarrollador Web 💻 y desarrollador mobile 📱
 
 Me encanta buscar soluciones a los problemas 💭. Es por ello que disfruto tanto de la programación, porque me permite pensar y crear para resolver una necesidad. 
 Soy un detallista 🔎 y siempre me enfoco en conseguir que todo funcione correctamente 🎯. Cuando comienzo una tarea, me esfuerzo al máximo para que cada detalle sea de alta calidad y que la solución sea efectiva. 💭
